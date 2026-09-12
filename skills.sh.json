@@ -1,0 +1,11 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Motion",
+      "description": "Rebuild UI and motion-graphics animations from video into runnable code.",
+      "skills": ["reverse-animate"]
+    }
+  ]
+}

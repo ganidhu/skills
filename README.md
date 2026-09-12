@@ -1,6 +1,6 @@
 # Skills
 
-[![skills.sh](https://skills.sh/ganidhu/skills)](https://skills.sh/ganidhu/skills)
+[![skills.sh](https://skills.sh/b/ganidhu/skills)](https://skills.sh/ganidhu/skills)
 
 Agent skills I actually use — motion, filmmaking, and product work.
 
