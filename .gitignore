@@ -1,0 +1,12 @@
+.DS_Store
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+reanimate_out/
+node_modules/
+.env
+*.webm
+*.mp4
+frames/
+_record_tmp.py

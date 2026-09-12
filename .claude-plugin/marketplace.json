@@ -1,0 +1,26 @@
+{
+  "name": "ganidhu-skills",
+  "owner": {
+    "name": "Ganidhu"
+  },
+  "metadata": {
+    "description": "Ganidhu's agent skills for motion, filmmaking, and product work",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ganidhu-skills",
+      "source": "./",
+      "strict": false,
+      "description": "Agent skills for reverse-engineering motion, plus more as they land.",
+      "category": "design",
+      "keywords": [
+        "animation",
+        "motion",
+        "gsap",
+        "framer-motion",
+        "video"
+      ]
+    }
+  ]
+}

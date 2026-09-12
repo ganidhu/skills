@@ -1,0 +1,9 @@
+opencv-python
+imagehash
+pillow
+numpy
+scipy
+scikit-image
+playwright
+pydantic
+jsonschema

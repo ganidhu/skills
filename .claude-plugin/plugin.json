@@ -1,0 +1,20 @@
+{
+  "name": "ganidhu-skills",
+  "version": "1.0.0",
+  "description": "Ganidhu's agent skills for motion, filmmaking, and product work.",
+  "author": {
+    "name": "Ganidhu"
+  },
+  "repository": "https://github.com/ganidhu/skills",
+  "license": "MIT",
+  "keywords": [
+    "animation",
+    "motion",
+    "gsap",
+    "framer-motion",
+    "video"
+  ],
+  "skills": [
+    "./skills/reverse-animate"
+  ]
+}
