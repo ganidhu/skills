@@ -1,6 +1,6 @@
 # Skills
 
-[![skills.sh](https://skills.sh/b/ganidhu/skills)](https://skills.sh/ganidhu/skills)
+[![GitHub](https://img.shields.io/badge/github-ganidhu%2Fskills-181717?logo=github)](https://github.com/ganidhu/skills)
 
 Agent skills I actually use — motion, filmmaking, and product work.
 
